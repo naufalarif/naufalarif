@@ -47,6 +47,12 @@ ___
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+---
+
+Credits: [naufalarif](https://github.com/naufalarif)
+
+Last Edited on: 23/02/2021
 <!--
 **naufalarif/naufalarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
