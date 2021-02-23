@@ -1,4 +1,9 @@
-### Hi there 👋
+### console.log('Hello World 👋'); 
+
+- 🔭 I’m currently working on GirlsKode Community as Tech Lead
+- 🌱 I’m currently learning TypeScript and Machine Learning
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/naufal-arif-pratama-44394a188)
+- ⚡ Fun fact: i love code and programming competition 😄
 
 __Deployed Project__
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - An hiking platform to guide and helping to prepare before trip 
@@ -8,9 +13,6 @@ ___
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact)
-
-![Profile views](https://gpvc.arturio.dev/naufalarif)
-![GitHub License](https://img.shields.io/github/license/naufalarif/naufalarif?style=flat)
 
 ___
 
