@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+___
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact)
+
+![Profile views](https://gpvc.arturio.dev/naufalarif)
+![GitHub License](https://img.shields.io/github/license/naufalarif/pedromlsreis?style=flat)
+
+___
