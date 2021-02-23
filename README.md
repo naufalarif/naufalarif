@@ -20,9 +20,11 @@ ___
 -->
 
 ### Language
+<!--
 <a href="https://github.com/naufalarif/github-readme-stats">
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&hide_border=true" />
 </a>
+-->
 <a href="https://github.com/naufalarif/github-readme-stats">
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact" />
 </a>
@@ -31,9 +33,9 @@ ___
 
 ### Stack and Tools
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/react-native/react-native-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
