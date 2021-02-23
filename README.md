@@ -31,9 +31,9 @@ ___
 
 ### Stack and Tools
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/next/next-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactnative/reactnative-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/react-native/react-native-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
