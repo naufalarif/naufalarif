@@ -24,6 +24,7 @@ ___
 <a href="https://github.com/naufalarif/github-readme-stats">
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact" />
 </a>
+
 ___
 
 
