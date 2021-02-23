@@ -1,4 +1,6 @@
 ### console.log('Hello World 👋'); 
+[![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/naufalarif)
+---
 
 - 🔭 I’m currently working on GirlsKode Community as Tech Lead
 - 🌱 I’m currently learning TypeScript and Machine Learning
@@ -11,9 +13,17 @@ __Deployed Project__
   - [Covid Healthcare](https://drive.google.com/file/d/1tWUXbv0eviVNhMMBo_h7PqPYM6xM7TaP/view?usp=sharing) - Show world case about covid-19 and self-test
 ___
 
+<!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact)
+-->
 
+<a href="https://github.com/naufalarif/github-readme-stats">
+   <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/naufalarif/github-readme-stats">
+   <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact" />
+</a>
 ___
 
 
