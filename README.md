@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on GirlsKode Community as Tech Lead
 - 🌱 I’m currently learning TypeScript and Machine Learning
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/naufal-arif-pratama-44394a188)
-- ⚡ Fun fact: i love code and programming competition 😄
+- ⚡ Fun fact: i'm person who fall asleep easily 😄
 
 ### Deployed Project
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - An hiking platform to guide and helping to prepare before trip 
