@@ -4,7 +4,8 @@
 ---
 
 - 🌱 I’m currently learning TypeScript and Machine Learning
-- 📫 How to reach me: [Gmail]naufalarif92@gmail.com
+- 👯 I’m looking for opportunities to work
+- 📫 How to reach me: naufalarif92@gmail.com
 
 ### Deployed Project
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - An hiking platform to guide and helping to prepare before trip 
