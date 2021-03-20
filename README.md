@@ -3,10 +3,8 @@
 [![Medium](https://img.shields.io/badge/-medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@naufalarif_5773)
 ---
 
-- 🔭 I’m currently working on GirlsKode Community as Tech Lead
 - 🌱 I’m currently learning TypeScript and Machine Learning
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/naufal-arif-pratama-44394a188)
-- ⚡ Fun fact: i'm person who fall asleep easily 😄
+- 📫 How to reach me: [Gmail]naufalarif92@gmail.com
 
 ### Deployed Project
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - An hiking platform to guide and helping to prepare before trip 
