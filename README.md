@@ -1,6 +1,7 @@
 ### console.log('Hello World 👋');
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/naufalarif)
 [![Medium](https://img.shields.io/badge/-medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@naufalarif_5773)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=flat&logo=Medium&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
 ---
 
 - 🌱 I’m currently learning TypeScript and Machine Learning
