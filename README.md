@@ -8,7 +8,7 @@
 - 📫 How to reach me: naufalarif92@gmail.com
 
 ### Deployed Project
-  - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - An hiking platform to guide and helping to prepare before trip 
+  - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - A hiking platform to guide and helping to prepare before trip 
   - [Pokemon App](https://pokemon-app-ebon.vercel.app/) - Mini games to catch pokemon
   - [Covid Healthcare](https://drive.google.com/file/d/1tWUXbv0eviVNhMMBo_h7PqPYM6xM7TaP/view?usp=sharing) - Show world case about covid-19 and self-test
 ___
