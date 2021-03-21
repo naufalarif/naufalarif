@@ -30,7 +30,7 @@ ___
 
 ___
 
-### Stack and Tools
+### My Stack
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
