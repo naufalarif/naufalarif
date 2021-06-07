@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
 ---
 
-- 🌱 I’m currently learning TypeScript and Machine Learning
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking for opportunities to work
 - 📫 How to reach me: naufalarif92@gmail.com
 
