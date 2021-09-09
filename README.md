@@ -5,8 +5,6 @@
 ---
 
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking for opportunities to work
-- 📫 How to reach me: naufalarif92@gmail.com
 
 <!-- ### Deployed Project
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - A hiking platform to guide and helping to prepare before trip 
