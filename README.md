@@ -27,7 +27,7 @@ ___ -->
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact" />
 </a>
 
-___
+<!-- ___
 
 ### My Stack
 <p>
@@ -38,7 +38,13 @@ ___
   <br />
 </p>
 
----
+--- -->
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=naufalarif&&show_icons=true"/>
+  </a>
+</p>
 
 Credits: [naufalarif](https://github.com/naufalarif)
 
