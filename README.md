@@ -1,5 +1,5 @@
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
----
+
 My name is Naufal, currently working on Tech in Asia ID as Frontend Engineer. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. I have passionate on technology and coding. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
 
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/naufalarif)
@@ -9,7 +9,8 @@ My name is Naufal, currently working on Tech in Asia ID as Frontend Engineer. Fo
 
 - 🌱 I’m currently learning TypeScript
 
-### Activities
+___
+# Activities
 - [Blog](https://naufalarif.github.io)
 - [Codepen](https://codepen.io/MozartVee)
 
@@ -25,7 +26,7 @@ ___
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact)
  -->
-### Language
+# Language
 <!--
 <a href="https://github.com/naufalarif/github-readme-stats">
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&hide_border=true" />
