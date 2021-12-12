@@ -8,7 +8,6 @@ My name is Naufal, currently working on Tech in Asia ID as Frontend Engineer. Fo
 ---
 
 - 🌱 Currently learning TypeScript
----
 
 # Activities
 - [Blog](https://naufalarif.github.io)
