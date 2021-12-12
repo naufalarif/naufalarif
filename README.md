@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
 ---
 
-- 🌱 I’m currently learning TypeScript
-
 <!-- ### Deployed Project
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - A hiking platform to guide and helping to prepare before trip 
   - [Pokemon App](https://pokemon-app-ebon.vercel.app/) - Mini games to catch pokemon
@@ -23,11 +21,13 @@ ___ -->
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&hide_border=true" />
 </a>
 -->
+
 <a href="https://github.com/naufalarif/github-readme-stats">
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact" />
 </a>
 
-<!-- ___
+<!-- 
+___
 
 ### My Stack
 <p>
@@ -38,9 +38,11 @@ ___ -->
   <br />
 </p>
 
---- -->
+---
+  -->
 
-<p align="center" >  
+### Stats
+<p>  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=naufalarif&&show_icons=true"/>
   </a>
