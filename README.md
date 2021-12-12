@@ -7,9 +7,9 @@ My name is Naufal, currently working on Tech in Asia ID as Frontend Engineer. Fo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
 ---
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 Currently learning TypeScript
+---
 
-___
 # Activities
 - [Blog](https://naufalarif.github.io)
 - [Codepen](https://codepen.io/MozartVee)
@@ -58,9 +58,10 @@ ___
   </a>
 </p> -->
 
+<!-- 
 Credits: [naufalarif](https://github.com/naufalarif)
 
-Last Edited on: 09/09/2021
+Last Edited on: 09/09/2021 -->
 
 
 <!--
