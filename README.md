@@ -9,6 +9,10 @@ My name is Naufal, currently working on Tech in Asia ID as Frontend Engineer. Fo
 
 - 🌱 I’m currently learning TypeScript
 
+### Activities
+- [Blog](https://naufalarif.github.io)
+- [Codepen](https://codepen.io/MozartVee)
+
 <!-- 
 ### Deployed Project
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - A hiking platform to guide and helping to prepare before trip 
@@ -45,13 +49,13 @@ ___
 </p>
 
 ---
-
+<!-- 
 ### Stats
 <p>  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=naufalarif&&show_icons=true"/>
   </a>
-</p>
+</p> -->
 
 Credits: [naufalarif](https://github.com/naufalarif)
 
