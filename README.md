@@ -25,7 +25,7 @@ ___
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact)
  -->
-# Language
+<!-- # Language
 <!--
 <a href="https://github.com/naufalarif/github-readme-stats">
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&hide_border=true" />
@@ -34,7 +34,7 @@ ___
 
 <a href="https://github.com/naufalarif/github-readme-stats">
    <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact" />
-</a>
+</a> -->
 
 <!-- 
 ___
