@@ -7,7 +7,7 @@ My name is Naufal, currently working as Frontend Engineer. Focusing on Web  deve
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
 ---
 
-- 🌱 Currently learning TypeScript
+- 🌱 Currently learning Backend
 
 # Activities
 - [Blog](https://naufalarif.github.io)
