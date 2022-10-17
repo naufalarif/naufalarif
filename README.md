@@ -1,6 +1,6 @@
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-My name is Naufal, currently working on Tech in Asia ID as Frontend Engineer. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. I have passionate on technology and coding. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
+My name is Naufal, currently working as Frontend Engineer. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. I have passionate on technology and coding. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
 
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/naufalarif)
 [![Medium](https://img.shields.io/badge/-medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@naufalarif_5773)
