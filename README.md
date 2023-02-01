@@ -13,6 +13,8 @@ My name is Naufal, currently working as Frontend Engineer. Focusing on Web  deve
 - [Blog](https://naufalarif.github.io)
 - [Codepen](https://codepen.io/MozartVee)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=naufalarif)](https://git.io/streak-stats)
+
 <!-- 
 ### Deployed Project
   - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - A hiking platform to guide and helping to prepare before trip 
