@@ -2,7 +2,7 @@
 
 Currently working as Frontend Engineer. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. I have passionate on technology and coding. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
 
-Here's my [blog](https://naufalarif.github.io).
+Here's my [personal blog](https://naufalarif.github.io) and this is my [experimental project](https://pokemon-app-ebon.vercel.app).
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naufalarif_5773)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
