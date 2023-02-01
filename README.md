@@ -1,81 +1,43 @@
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-My name is Naufal, currently working as Frontend Engineer. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. I have passionate on technology and coding. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
+Currently working as Frontend Engineer. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. I have passionate on technology and coding. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
 
-[![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/naufalarif)
-[![Medium](https://img.shields.io/badge/-medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@naufalarif_5773)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
+Here's my [blog](https://naufalarif.github.io).
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naufalarif_5773)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naufal-arif-pratama-44394a188)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/naufalarif)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/naufalarif)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MozartVee)
 ---
 
-- 🌱 Currently learning Backend
+# Technology Stack
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-# Activities
-- [Blog](https://naufalarif.github.io)
-- [Codepen](https://codepen.io/MozartVee)
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naufalarif)](https://git.io/streak-stats)
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Others
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ---
 
-<!-- 
-### Deployed Project
-  - [Melaku | Hiking Guide For Better Trip](https://mountnesia-f940e.web.app/login) - A hiking platform to guide and helping to prepare before trip 
-  - [Pokemon App](https://pokemon-app-ebon.vercel.app/) - Mini games to catch pokemon
-  - [Covid Healthcare](https://drive.google.com/file/d/1tWUXbv0eviVNhMMBo_h7PqPYM6xM7TaP/view?usp=sharing) - Show world case about covid-19 and self-test
-___
- -->
-
-<!-- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact)
- -->
-<!-- # Language
-<!--
-<a href="https://github.com/naufalarif/github-readme-stats">
-   <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api?username=naufalarif&show_icons=true&hide_border=true" />
-</a>
-
-<a href="https://github.com/naufalarif/github-readme-stats">
-   <img width="50%" alt="Naufal's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarif&layout=compact" />
-</a> -->
-
-<!-- 
-___
-
-### My Stack
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<!--   <code><img width="15%" src="https://www.vectorlogo.zone/logos/redux/redux-ar21.svg"></code> -->
-<!--   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> -->
-  <br />
-</p>
-
----
-<!-- 
-### Stats
-<p>  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=naufalarif&&show_icons=true"/>
-  </a>
-</p> -->
-
-<!-- 
-Credits: [naufalarif](https://github.com/naufalarif)
-
-Last Edited on: 09/09/2021 -->
-
-
-<!--
-**naufalarif/naufalarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naufalarif)](https://git.io/streak-stats)
