@@ -13,8 +13,8 @@ My name is Naufal, currently working as Frontend Engineer. Focusing on Web  deve
 - [Blog](https://naufalarif.github.io)
 - [Codepen](https://codepen.io/MozartVee)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=naufalarif)](https://git.io/streak-stats)
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=naufalarif&mode=weekly)](https://git.io/streak-stats)
 
 <!-- 
 ### Deployed Project
