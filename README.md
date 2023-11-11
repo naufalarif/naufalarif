@@ -1,8 +1,6 @@
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Currently working as Frontend Engineer. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. I have passionate on technology and coding. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
-
-Here's my [personal blog](https://naufal-dev.vercel.app) and this is my [experimental project](https://pokemon-app-ebon.vercel.app).
+Passionate in Software Engineering. Focusing on Web  development especially Frontend. Proficient in HTML, CSS, JavaScript and experienced in creating websites with the React Js library. In my spare time, i usually spent my time to do a coding challenges, watch movies and play games.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naufaltwelve)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufal-arif/)
